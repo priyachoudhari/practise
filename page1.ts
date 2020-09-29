@@ -6,9 +6,9 @@ class Person {
   }
   
   const p1 = new Person();
-  p1.name = "Shubham";
+  p1.name = "rpiya";
   p1.age = 23;
-  p1.email = "shubhamborse7997@gmail.com";
-  p1.address = "Dhule";
+  p1.email = "priyachpudhari@gmail.com";
+  p1.address = "nagpur";
   console.log(p1);
   
